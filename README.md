@@ -13,3 +13,18 @@ I had used other apps before and know my average so added a margin of error that
 - Go to http://localhost:3000/ after running the application
 
 ## Screenshots
+
+### Test Not Started
+![Test Not Started](https://github.com/deepjaisia/ReactionTime/blob/master/screenshots/notStarted.jpg)
+
+### Test Started
+![Test Started](https://github.com/deepjaisia/ReactionTime/blob/master/screenshots/started.jpg)
+
+### Test Started & changed to Green Screen 
+![Test Started & Green](https://github.com/deepjaisia/ReactionTime/blob/master/screenshots/startedGreen.jpg)
+
+### Test Ended
+![Test Started](https://github.com/deepjaisia/ReactionTime/blob/master/screenshots/ended.jpg)
+
+### Settings At Bottom
+![Settings](https://github.com/deepjaisia/ReactionTime/blob/master/screenshots/settings.jpg)
