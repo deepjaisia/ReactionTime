@@ -13,7 +13,7 @@ class App extends React.Component {
       testTimer: null,
       testTimerStart: null,
       testResult: null,
-      marginError: -60,
+      marginError: -75,
     }
 
     this.testManager = this.testManager.bind(this);
